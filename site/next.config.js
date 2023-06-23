@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Islandweb',
     description: 'Islandweb Repo for Custom Images.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/xsnocrashx/kasm-repo/',
+    listUrl: 'https://xsnocrashx.github.io/kasm-repo/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
