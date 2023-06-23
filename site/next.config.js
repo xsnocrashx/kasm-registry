@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Islandweb',
+    description: 'Islandweb Repo for Custom Images.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://github.com/xsnocrashx/kasm-repo/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
